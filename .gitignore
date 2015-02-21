@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+build/
+exlipse/
+proposterous.iml
+proposterous.ipr
+proposterous.iws
